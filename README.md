@@ -66,7 +66,7 @@ The project includes four core entities:
 ## Project Status
 
 * [x] Repository initialized
-* [ ] Data model designed
+* [x] Data model designed
 * [ ] Synthetic data generator implemented
 * [ ] Data validation implemented
 * [ ] Kafka producer and consumer implemented
