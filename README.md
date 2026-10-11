@@ -67,8 +67,8 @@ The project includes four core entities:
 
 * [x] Repository initialized
 * [x] Data model designed
-* [ ] Synthetic data generator implemented
-* [ ] Data validation implemented
+* [x] Synthetic data generator implemented
+* [x] Data validation implemented
 * [ ] Kafka producer and consumer implemented
 * [ ] PySpark processing implemented
 * [ ] PostgreSQL integration completed
